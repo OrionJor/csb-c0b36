@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://orionjor.github.io/csb-c0b36/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://orionjor.github.io/csb-c0b36/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://orionjor.github.io/csb-c0b36/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://orionjor.github.io/csb-c0b36/static/js/runtime-main.e4398114.js",
+    "runtime-main.js.map": "https://orionjor.github.io/csb-c0b36/static/js/runtime-main.e4398114.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://orionjor.github.io/csb-c0b36/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://orionjor.github.io/csb-c0b36/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://orionjor.github.io/csb-c0b36/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://orionjor.github.io/csb-c0b36/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://orionjor.github.io/csb-c0b36/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4398114.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
